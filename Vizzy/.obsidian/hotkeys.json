@@ -22,5 +22,14 @@
       ],
       "key": "E"
     }
+  ],
+  "journalit:add-trade": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "6f4e07a7a639cf24",
+            "type": "leaf",
+            "state": {
+              "type": "journalit-home-view",
+              "state": {},
+              "icon": "circle-dot-dashed",
+              "title": "Journalit"
+            }
+          },
+          {
             "id": "47dd7c07514c693a",
             "type": "leaf",
             "state": {
@@ -46,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fa903451784ec3f8",
@@ -206,10 +216,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "journalit:Open Journalit": false
     }
   },
-  "active": "a8c3acef7cdbc64a",
+  "active": "6f4e07a7a639cf24",
   "lastOpenFiles": [
     "Suck my dihhhh!!!.md",
     "yayaya.md",

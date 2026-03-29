@@ -1,0 +1,111 @@
+{
+  "recentItems": [
+    {
+      "type": "view",
+      "title": "Journalit Onboarding",
+      "viewType": "journalit-onboarding-view",
+      "icon": "circle-dot-dashed",
+      "openedAt": "2026-03-29T18:22:05.439Z"
+    }
+  ],
+  "gettingStartedDismissed": false,
+  "gettingStartedOpenedTradeLog": false,
+  "gettingStartedOpenedLayoutBuilder": false,
+  "lastUsedFilters": {
+    "dateRange": [
+      null,
+      null
+    ],
+    "accounts": [],
+    "tickers": [],
+    "setups": [],
+    "tags": [],
+    "mistakes": [],
+    "tradeTypes": [],
+    "statuses": []
+  },
+  "viewFilters": {
+    "dashboard": {
+      "dateRange": [
+        null,
+        null
+      ],
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "tradeTypes": [],
+      "statuses": []
+    },
+    "tradelog": {
+      "dateRange": [
+        null,
+        null
+      ],
+      "viewLevel": "trades",
+      "tradeTypes": [],
+      "statuses": [],
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": []
+    },
+    "reviews": {
+      "accounts": [],
+      "tickers": [],
+      "setups": [],
+      "tags": [],
+      "mistakes": [],
+      "tradeTypes": [],
+      "statuses": []
+    }
+  },
+  "tradeLog": {
+    "columnVisibility": {
+      "select": false,
+      "image": true,
+      "account": true,
+      "ticker": true,
+      "status": true,
+      "pnl": true,
+      "direction": true,
+      "setups": true,
+      "mistakes": true,
+      "tags": true,
+      "date": true,
+      "reviewed": true,
+      "duration": false,
+      "positionSize": false,
+      "expirationDate": false,
+      "daysToExpiry": false,
+      "thesis": false
+    },
+    "columnOrder": [
+      "select",
+      "image",
+      "account",
+      "ticker",
+      "status",
+      "pnl",
+      "direction",
+      "setups",
+      "mistakes",
+      "tags",
+      "date",
+      "reviewed",
+      "duration",
+      "positionSize",
+      "expirationDate",
+      "daysToExpiry",
+      "thesis"
+    ],
+    "columnWidths": {}
+  },
+  "selectedPeriod": "lifetime",
+  "dashboardActiveLayout": "Default",
+  "homeActiveLayout": "Default",
+  "lastFuturesSymbol": "ES",
+  "lastForexSymbol": "EURUSD"
+}
