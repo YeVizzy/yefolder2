@@ -478,13 +478,6 @@
             "h": 4
           },
           {
-            "i": "gettingStarted",
-            "x": 6,
-            "y": 2,
-            "w": 3,
-            "h": 6
-          },
-          {
             "i": "unreviewedTrades",
             "x": 6,
             "y": 0,
@@ -511,6 +504,20 @@
             "y": 0,
             "w": 6,
             "h": 4
+          },
+          {
+            "i": "currentStreak",
+            "x": 0,
+            "y": 9999,
+            "w": 4,
+            "h": 5
+          },
+          {
+            "i": "tradingScore",
+            "x": 0,
+            "y": 9999,
+            "w": 5,
+            "h": 6
           }
         ],
         "md": [
@@ -520,13 +527,6 @@
             "y": 1,
             "w": 3,
             "h": 5
-          },
-          {
-            "i": "gettingStarted",
-            "x": 0,
-            "y": 0,
-            "w": 3,
-            "h": 6
           },
           {
             "i": "unreviewedTrades",
@@ -555,6 +555,20 @@
             "y": 6,
             "w": 6,
             "h": 5
+          },
+          {
+            "i": "currentStreak",
+            "x": 0,
+            "y": 19,
+            "w": 4,
+            "h": 5
+          },
+          {
+            "i": "tradingScore",
+            "x": 0,
+            "y": 24,
+            "w": 5,
+            "h": 6
           }
         ],
         "sm": [
@@ -564,13 +578,6 @@
             "y": 1,
             "w": 2,
             "h": 5
-          },
-          {
-            "i": "gettingStarted",
-            "x": 2,
-            "y": 0,
-            "w": 2,
-            "h": 6
           },
           {
             "i": "unreviewedTrades",
@@ -599,6 +606,20 @@
             "y": 6,
             "w": 4,
             "h": 5
+          },
+          {
+            "i": "currentStreak",
+            "x": 0,
+            "y": 9999,
+            "w": 4,
+            "h": 5
+          },
+          {
+            "i": "tradingScore",
+            "x": 0,
+            "y": 9999,
+            "w": 4,
+            "h": 6
           }
         ],
         "xs": [
@@ -608,13 +629,6 @@
             "y": 6,
             "w": 2,
             "h": 4
-          },
-          {
-            "i": "gettingStarted",
-            "x": 0,
-            "y": 0,
-            "w": 1,
-            "h": 6
           },
           {
             "i": "unreviewedTrades",
@@ -643,50 +657,71 @@
             "y": 12,
             "w": 2,
             "h": 5
+          },
+          {
+            "i": "currentStreak",
+            "x": 0,
+            "y": 9999,
+            "w": 2,
+            "h": 5
+          },
+          {
+            "i": "tradingScore",
+            "x": 0,
+            "y": 9999,
+            "w": 2,
+            "h": 6
           }
         ],
         "xxs": [
           {
             "i": "weeklySummary",
             "x": 0,
-            "y": 6,
+            "y": 0,
             "w": 1,
             "h": 4
           },
           {
-            "i": "gettingStarted",
-            "x": 0,
-            "y": 0,
-            "w": 1,
-            "h": 6
-          },
-          {
             "i": "unreviewedTrades",
             "x": 0,
-            "y": 10,
+            "y": 4,
             "w": 1,
             "h": 2
           },
           {
             "i": "recentItems",
             "x": 0,
-            "y": 12,
+            "y": 6,
             "w": 1,
             "h": 5
           },
           {
             "i": "positionSize",
             "x": 0,
-            "y": 22,
+            "y": 16,
             "w": 1,
             "h": 7
           },
           {
             "i": "yearHeatmap",
             "x": 0,
-            "y": 17,
+            "y": 11,
             "w": 1,
             "h": 5
+          },
+          {
+            "i": "currentStreak",
+            "x": 0,
+            "y": 23,
+            "w": 1,
+            "h": 5
+          },
+          {
+            "i": "tradingScore",
+            "x": 0,
+            "y": 28,
+            "w": 1,
+            "h": 6
           }
         ]
       }
