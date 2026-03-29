@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sdsdf.md",
+                "file": "dfvdfvdfv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sdsdf"
+              "title": "dfvdfvdfv"
+            }
+          },
+          {
+            "id": "47dd7c07514c693a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -186,7 +196,8 @@
   },
   "active": "5daaf3e53b2258cc",
   "lastOpenFiles": [
-    "sdsdf.md",
-    "Welcome.md"
+    "dfvdfvdfv.md",
+    "Welcome.md",
+    "sdsdf.md"
   ]
 }
