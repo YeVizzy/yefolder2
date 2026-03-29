@@ -1,6 +1,13 @@
 {
   "recentItems": [
     {
+      "type": "file",
+      "title": "03-Review",
+      "path": "!Journalit/2026/Q1/03/03-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-29T18:25:00.199Z"
+    },
+    {
       "type": "view",
       "title": "Journalit Onboarding",
       "viewType": "journalit-onboarding-view",
@@ -103,7 +110,7 @@
     ],
     "columnWidths": {}
   },
-  "selectedPeriod": "lifetime",
+  "selectedPeriod": "month",
   "dashboardActiveLayout": "Default",
   "homeActiveLayout": "Default",
   "lastFuturesSymbol": "ES",
