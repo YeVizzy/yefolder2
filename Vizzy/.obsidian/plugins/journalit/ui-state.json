@@ -1,18 +1,46 @@
 {
   "recentItems": [
     {
-      "type": "view",
-      "title": "Account Dashboard",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-03-29T19:11:01.105Z"
+      "type": "file",
+      "title": "2026-Review",
+      "path": "!Journalit/2026/2026-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-29T19:43:58.114Z"
     },
     {
       "type": "view",
       "title": "Trade Log",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
-      "openedAt": "2026-03-29T18:46:34.158Z"
+      "openedAt": "2026-03-29T19:16:18.175Z"
+    },
+    {
+      "type": "view",
+      "title": "Account: Vi",
+      "viewType": "journalit-account-page-view",
+      "icon": "user",
+      "openedAt": "2026-03-29T19:16:11.870Z"
+    },
+    {
+      "type": "file",
+      "title": "UMHL-300326-T1",
+      "path": "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-29T19:15:35.289Z"
+    },
+    {
+      "type": "view",
+      "title": "Account Dashboard",
+      "viewType": "account-dashboard",
+      "icon": "users",
+      "openedAt": "2026-03-29T19:14:09.163Z"
+    },
+    {
+      "type": "view",
+      "title": "Journalit Onboarding",
+      "viewType": "journalit-onboarding-view",
+      "icon": "circle-dot-dashed",
+      "openedAt": "2026-03-29T19:11:27.638Z"
     },
     {
       "type": "file",
@@ -27,13 +55,6 @@
       "path": "!Journalit/2026/Q1/03/03-Review.md",
       "icon": "file-text",
       "openedAt": "2026-03-29T18:25:00.199Z"
-    },
-    {
-      "type": "view",
-      "title": "Journalit Onboarding",
-      "viewType": "journalit-onboarding-view",
-      "icon": "circle-dot-dashed",
-      "openedAt": "2026-03-29T18:22:05.439Z"
     }
   ],
   "gettingStartedDismissed": true,
@@ -135,5 +156,6 @@
   "dashboardActiveLayout": "Default",
   "homeActiveLayout": "Default",
   "lastFuturesSymbol": "ES",
-  "lastForexSymbol": "EURUSD"
+  "lastForexSymbol": "EURUSD",
+  "lastAssetType": "stock"
 }

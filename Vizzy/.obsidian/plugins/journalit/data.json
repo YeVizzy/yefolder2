@@ -841,7 +841,24 @@
       "demo",
       "archived"
     ],
-    "accountMetadata": {}
+    "accountMetadata": {
+      "Vi": {
+        "name": "Vi",
+        "accountType": "Funded",
+        "createdDate": "2026-03-29T18:15:00.000Z",
+        "initialBalance": 8000000,
+        "drawdownType": "fixed",
+        "drawdownAmount": 399500,
+        "hasProfitTarget": false,
+        "profitTarget": 0,
+        "profitTargetType": "absolute",
+        "monthlyCost": 0,
+        "manualTransactions": [],
+        "manualDrawdownSnapshots": [],
+        "lastUpdated": "2026-03-29T19:12:33.173Z",
+        "currency": "USD"
+      }
+    }
   },
   "backendIntegration": {
     "serverUrl": "https://api.journalit.co",
@@ -909,7 +926,9 @@
         "assetType": "stock"
       }
     ],
-    "account": [],
+    "account": [
+      "Vi"
+    ],
     "account_type": [
       "Demo",
       "Evaluation",
