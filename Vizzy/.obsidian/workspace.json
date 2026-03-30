@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stan/Readlink.md",
+                "file": "Stan/Investment Insights and Market Philosophy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readlink"
+              "title": "Investment Insights and Market Philosophy"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "95bc19e67298f82b",
   "lastOpenFiles": [
-    "Stan/A Bottom-Up Macro Approach.md",
     "Stan/Readlink.md",
+    "Stan/Investment Insights and Market Philosophy.md",
+    "Stan/A Bottom-Up Macro Approach.md",
     "Stan/Breaking the Bank and Understanding Currency Pegs.md",
     "yayaya.md",
     "Welcome.md",
