@@ -2,6 +2,34 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Stan",
+      "path": "Stan.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-30T16:32:12.710Z"
+    },
+    {
+      "type": "file",
+      "title": "Welcome",
+      "path": "Welcome.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-30T16:32:11.249Z"
+    },
+    {
+      "type": "file",
+      "title": "yayaya",
+      "path": "yayaya.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-30T16:32:07.305Z"
+    },
+    {
+      "type": "file",
+      "title": "sdsdf",
+      "path": "sdsdf.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-30T16:32:04.857Z"
+    },
+    {
+      "type": "file",
       "title": "Untitled",
       "path": "Stan/Untitled.md",
       "icon": "file-text",
@@ -20,27 +48,6 @@
       "path": "Untitled.md",
       "icon": "file-text",
       "openedAt": "2026-03-30T16:10:43.827Z"
-    },
-    {
-      "type": "file",
-      "title": "yayaya",
-      "path": "yayaya.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T16:10:43.091Z"
-    },
-    {
-      "type": "file",
-      "title": "Welcome",
-      "path": "Welcome.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T16:10:42.692Z"
-    },
-    {
-      "type": "file",
-      "title": "Stan",
-      "path": "Stan.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T16:10:38.147Z"
     },
     {
       "type": "view",
