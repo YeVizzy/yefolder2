@@ -1,25 +1,32 @@
 {
   "recentItems": [
     {
-      "type": "file",
-      "title": "2026-Review",
-      "path": "!Journalit/2026/2026-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-29T19:43:58.114Z"
+      "type": "view",
+      "title": "Account: Vi",
+      "viewType": "journalit-account-page-view",
+      "icon": "user",
+      "openedAt": "2026-03-30T06:21:16.761Z"
     },
     {
       "type": "view",
       "title": "Trade Log",
       "viewType": "journalit-trade-log-view",
       "icon": "folder-tree",
-      "openedAt": "2026-03-29T19:16:18.175Z"
+      "openedAt": "2026-03-29T19:44:42.061Z"
     },
     {
-      "type": "view",
-      "title": "Account: Vi",
-      "viewType": "journalit-account-page-view",
-      "icon": "user",
-      "openedAt": "2026-03-29T19:16:11.870Z"
+      "type": "file",
+      "title": "Q1-Review",
+      "path": "!Journalit/2026/Q1/Q1-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-29T19:44:38.824Z"
+    },
+    {
+      "type": "file",
+      "title": "2026-Review",
+      "path": "!Journalit/2026/2026-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-03-29T19:43:58.114Z"
     },
     {
       "type": "file",
