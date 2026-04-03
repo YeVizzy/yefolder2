@@ -46,9 +46,19 @@
               "icon": "lucide-file",
               "title": "Stan"
             }
+          },
+          {
+            "id": "9ab08bac759bf1e9",
+            "type": "leaf",
+            "state": {
+              "type": "journalit-home-view",
+              "state": {},
+              "icon": "circle-dot-dashed",
+              "title": "Journalit"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +223,7 @@
       "journalit:Open Journalit": false
     }
   },
-  "active": "a8c3acef7cdbc64a",
+  "active": "9ab08bac759bf1e9",
   "lastOpenFiles": [
     "Welcome.md",
     "Stan.md",
