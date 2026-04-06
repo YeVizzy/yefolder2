@@ -463,7 +463,8 @@
       "tags": [],
       "mistakes": [],
       "tradeTypes": [],
-      "statuses": []
+      "statuses": [],
+      "customFieldFilters": {}
     }
   },
   "home": {
