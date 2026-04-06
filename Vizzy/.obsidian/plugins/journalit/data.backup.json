@@ -903,7 +903,7 @@
     "showSyncNotifications": true,
     "showNewTradeNotifications": true,
     "showUpdateNotifications": true,
-    "lastSeenVersion": "1.6.11",
+    "lastSeenVersion": "1.7.0",
     "dismissedVersion": "1.6.11",
     "authToken": "",
     "userEmail": "",

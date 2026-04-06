@@ -2,10 +2,38 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Untitled",
+      "path": "Untitled.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-06T07:57:06.149Z"
+    },
+    {
+      "type": "file",
+      "title": "UMHL-300326-T1",
+      "path": "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-06T07:57:03.055Z"
+    },
+    {
+      "type": "view",
+      "title": "Trade Log",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-04-06T07:57:03.055Z"
+    },
+    {
+      "type": "file",
+      "title": "Q1-Review",
+      "path": "!Journalit/2026/Q1/Q1-Review.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-06T07:56:51.929Z"
+    },
+    {
+      "type": "file",
       "title": "Stan",
       "path": "Stan.md",
       "icon": "file-text",
-      "openedAt": "2026-04-03T17:03:00.687Z"
+      "openedAt": "2026-04-06T07:56:50.879Z"
     },
     {
       "type": "file",
@@ -43,20 +71,6 @@
       "openedAt": "2026-03-30T16:10:51.166Z"
     },
     {
-      "type": "file",
-      "title": "Untitled",
-      "path": "Untitled.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T16:10:43.827Z"
-    },
-    {
-      "type": "view",
-      "title": "Trade Log",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-03-30T15:47:23.076Z"
-    },
-    {
       "type": "view",
       "title": "Journalit Onboarding",
       "viewType": "journalit-onboarding-view",
@@ -76,20 +90,6 @@
       "viewType": "journalit-account-page-view",
       "icon": "user",
       "openedAt": "2026-03-30T15:47:12.213Z"
-    },
-    {
-      "type": "file",
-      "title": "Q1-Review",
-      "path": "!Journalit/2026/Q1/Q1-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T15:47:09.681Z"
-    },
-    {
-      "type": "file",
-      "title": "UMHL-300326-T1",
-      "path": "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T15:47:06.016Z"
     },
     {
       "type": "file",
@@ -155,7 +155,8 @@
       "tickers": [],
       "setups": [],
       "tags": [],
-      "mistakes": []
+      "mistakes": [],
+      "customFieldFilters": {}
     },
     "reviews": {
       "accounts": [],
