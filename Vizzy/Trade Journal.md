@@ -1,4 +1,17 @@
+
+
+
+| Bull                  | Beer                 |
+| --------------------- | -------------------- |
+| Stable goverment      | Oil price jacking up |
+| Liberal ease policies | Geopolitics          |
+| Excess liquidity      | Global economy       |
+|                       | Dead cat bounce?     |
+|                       | No strength          |
+
+
 ## 4 April
 Yesterday nepse bleed 100 points, i had planned for buying today for short swing. The stock picks were #API, #RIDI and #NHPC. The former trendy stocks API with massive relative strength and accumulation, NHPC fell harder so naturally it would rise faster and RIDI is 58's current play stock. I was confident today was a good short buying day and had collateral free too. 
 Market open up and these stocks were already some points up. I thought there would be some drawdown in first 15 min, i was wrong. The stocks did give chance but i don't know why but i waited but the stock did just opposite. All three of them rose 8-10%, I hold some API at higher cost. Risky, unplanned and impulsive .
 The market rose on desperation after 100 points loss in a single day. 58 sold 1 arba with just 50 crore buy, a ratio of 0.5 at such high turnover. Also sold 25 crore NRN. So, the broker is cutting some slack... API was sold too. Market doesn't look good. I still have to get out of NHPC asap.
+
