@@ -2,6 +2,20 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "IPO FRENZY",
+      "path": "IPO FRENZY.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-10T15:48:11.628Z"
+    },
+    {
+      "type": "file",
+      "title": "Untitled",
+      "path": "Untitled.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-10T15:30:02.226Z"
+    },
+    {
+      "type": "file",
       "title": "Trade Journal",
       "path": "Trade Journal.md",
       "icon": "file-text",
@@ -27,13 +41,6 @@
       "path": "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
       "icon": "file-text",
       "openedAt": "2026-04-07T06:17:47.299Z"
-    },
-    {
-      "type": "file",
-      "title": "Untitled",
-      "path": "Untitled.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-07T05:05:50.633Z"
     },
     {
       "type": "file",
