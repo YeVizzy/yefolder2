@@ -1,6 +1,13 @@
 {
   "recentItems": [
     {
+      "type": "file",
+      "title": "Trade Journal",
+      "path": "Trade Journal.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-10T04:41:18.804Z"
+    },
+    {
       "type": "view",
       "title": "Trade Log",
       "viewType": "journalit-trade-log-view",
@@ -20,13 +27,6 @@
       "path": "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
       "icon": "file-text",
       "openedAt": "2026-04-07T06:17:47.299Z"
-    },
-    {
-      "type": "file",
-      "title": "Trade Journal",
-      "path": "Trade Journal.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-07T06:17:43.817Z"
     },
     {
       "type": "file",

@@ -15,3 +15,6 @@ Yesterday nepse bleed 100 points, i had planned for buying today for short swing
 Market open up and these stocks were already some points up. I thought there would be some drawdown in first 15 min, i was wrong. The stocks did give chance but i don't know why but i waited but the stock did just opposite. All three of them rose 8-10%, I hold some API at higher cost. Risky, unplanned and impulsive .
 The market rose on desperation after 100 points loss in a single day. 58 sold 1 arba with just 50 crore buy, a ratio of 0.5 at such high turnover. Also sold 25 crore NRN. So, the broker is cutting some slack... API was sold too. Market doesn't look good. I still have to get out of NHPC asap.
 
+## 10 April
+So i bought 20 lac of AKJCL which looks primed but hasn't had conformation and with nepse near the 2900 zone, it is getting anxious there. I was late to party fuck it !!! 
+I knew NHPC and RIDI were going to be the most profitable trades, i knew a big dildo green bar would presend  the 
