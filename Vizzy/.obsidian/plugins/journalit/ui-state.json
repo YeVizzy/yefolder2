@@ -2,6 +2,13 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Trade Journal",
+      "path": "Trade Journal.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-10T17:11:49.649Z"
+    },
+    {
+      "type": "file",
       "title": "IPO FRENZY",
       "path": "IPO FRENZY.md",
       "icon": "file-text",
@@ -13,13 +20,6 @@
       "path": "Untitled.md",
       "icon": "file-text",
       "openedAt": "2026-04-10T15:30:02.226Z"
-    },
-    {
-      "type": "file",
-      "title": "Trade Journal",
-      "path": "Trade Journal.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-10T04:41:18.804Z"
     },
     {
       "type": "view",
