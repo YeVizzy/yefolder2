@@ -1,7 +1,7 @@
-A lot of IPO stocks have given insane return to both primary as well as secondary market participants. During bull market these recent IPO stocks goes into a "never thought so" price discovery and each time the celling for what we thought we know from past IPO stocks is raised higher. Regardless, all IPO stocks had huge successes in #nepse . The time of stock listing is very important or even lock in time. A recently listed stock can go to 500 or 1000 depending in market cycle and that's 5x and 10x from 100.
-Low float, new and shinning, price discovery and sometimes the euphoria of new sector were the hunger of trader's frenzy.
+A lot of IPO stocks have given insane return to both primary as well as secondary market participants. During bull market these recent IPO stocks goes into a "never thought so" price discovery and each time the celling for what we thought we know from past IPO stocks is raised higher. Regardless, all IPO stocks had huge successes in #nepse . The timing of stock listing is very important or even lock in time. A recently listed stock can go to 500 or 1000 depending in market cycle and that's 5x and 10x from 100.
+Low float, new and shinny, price discovery and sometimes the euphoria of unique stock was the hunger of trader's frenzy.
 
-A fucking timeline of IPO stocks pushing boundaries because why not
+A fucking timeline of IPO stocks pushing boundaries because why not!!!
 
 >2023-Present timeline to complete madness
 
@@ -36,4 +36,8 @@ Characteristics:
 
 ![[msedge_nWUWdjBguc.png]]
 
-The initial upsurge to base formation and then markup phase in all of these stocks are identical 
+The initial upsurge to base formation and then markup phase in all of these stocks are identical but the rally are rotation in short time of interval. The early phase of bull doesn't have large capital injection and hence, low cap stocks are the first movers of the bull run. 
+* Formed an average of 250 days of base before an impulsive swing
+* The major theme was ON but the stocks were rotating and each stock topped at different time
+* The major de facto: Low float, heavy accumulated by players (30%+), stocks with relative better fundamentals in this category performed better than high risk stocks
+* The base formation was textbook definition, well-defined pattern
