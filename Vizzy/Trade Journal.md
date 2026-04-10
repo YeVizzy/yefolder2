@@ -17,4 +17,4 @@ The market rose on desperation after 100 points loss in a single day. 58 sold 1 
 
 ## 10 April
 So i bought 20 lac of AKJCL which looks primed but hasn't had conformation and with nepse near the 2900 zone, it is getting anxious there. I was late to party fuck it !!! 
-I knew NHPC and RIDI were going to be the most profitable trades, i knew a big dildo green bar would presend  the 
+I knew NHPC and RIDI were going to be the most profitable trades, i knew a big dildo green bar would be followed after that one day panic drop.  

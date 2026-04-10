@@ -1,54 +1,37 @@
 {
   "main": {
-    "id": "34f467bf66f1ae8a",
+    "id": "663fbab840b80712",
     "type": "split",
     "children": [
       {
-        "id": "8f7152a33ea97388",
+        "id": "ea216a496364d409",
         "type": "tabs",
         "children": [
           {
-            "id": "ff645a2bfdad2e7f",
+            "id": "9b268e1f5d0db191",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "journalit-trade-log-view",
+              "type": "journalit-home-view",
               "state": {},
-              "pinned": true,
-              "icon": "folder-tree",
-              "title": "Trade Log"
-            }
-          },
-          {
-            "id": "3be4a4801c93c70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trade Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trade Journal"
+              "icon": "circle-dot-dashed",
+              "title": "Journalit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5173bd9629c70c4f",
+    "id": "9d72cbdcb004461f",
     "type": "split",
     "children": [
       {
-        "id": "c0d3ed889151a52d",
+        "id": "fc8821dd1705db7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c3acef7cdbc64a",
+            "id": "32e58d7f6ffd0089",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +44,7 @@
             }
           },
           {
-            "id": "c5852be4f99a2b2c",
+            "id": "0c3939e76f464735",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +61,7 @@
             }
           },
           {
-            "id": "daa9bad4b8fc3eba",
+            "id": "6e23116ad68be5c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fa903451784ec3f8",
+    "id": "bc3c33c6c8fc44e3",
     "type": "split",
     "children": [
       {
-        "id": "3e250dbdd7db0d25",
+        "id": "9b9d0b4c5e14acd0",
         "type": "tabs",
         "children": [
           {
-            "id": "40b986e79929dc0d",
+            "id": "f41942565f71e11b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f5f403fe12d69322",
+            "id": "fc32a989f5c9aaba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "88e4f1fe56a8493e",
+            "id": "d6255e64ed0f574b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +131,7 @@
             }
           },
           {
-            "id": "c14dd18716928e3b",
+            "id": "115fa231c7036718",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,18 +145,17 @@
             }
           },
           {
-            "id": "1897b8902dcf4897",
+            "id": "fe8908d0c50ef072",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -187,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,39 +174,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
       "journalit:Open Journalit": false
     }
   },
-  "active": "3be4a4801c93c70e",
-  "lastOpenFiles": [
-    "!Journalit/2026/Q1/03/W14/trades/UMHL-300326-T1.md",
-    "Trade Journal.md",
-    "!Journalit/2026/Q2/04/W14/W14-Review.md",
-    "!Journalit/2026/Q1/Q1-Review.md",
-    "Stan.md",
-    "Welcome.md",
-    "yayaya.md",
-    "sdsdf.md",
-    "Stan Druckenmiller/Investment Insights and Market Philosophy.md",
-    "Stan Druckenmiller/Readlink.md",
-    "Stan Druckenmiller/A Bottom-Up Macro Approach.md",
-    "Stan Druckenmiller/Breaking the Bank and Understanding Currency Pegs.md",
-    "Stan Druckenmiller",
-    "!Journalit/2026/2026-Review.md",
-    "!Journalit/2026/Q1/03/W14/media/UMHL-300326-T1/UMHL-T1-1774811758844.png",
-    "!Journalit/2026/Q1/03/W14/media/UMHL-300326-T1",
-    "!Journalit/2026/Q1/03/W14/media",
-    "!Journalit/2026/Q2/04/W14",
-    "!Journalit/2026/Q2/04",
-    "!Journalit/2026/Q2",
-    "!Journalit/2026/Q1/03/W14/trades",
-    "!Journalit/2026/Q1/03/W14/DRC-300326.md",
-    "!Journalit/2026/Q1/03/W14",
-    "!Journalit/2026/Q1/03/03-Review.md",
-    "!Journalit/2026/Q1/03",
-    "!Journalit/2026/Q1",
-    "Suck my dihhhh!!!.md",
-    "dfvdfvdfv.md"
-  ]
+  "active": "9b268e1f5d0db191",
+  "lastOpenFiles": []
 }
