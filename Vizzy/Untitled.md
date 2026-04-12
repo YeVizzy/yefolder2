@@ -1,0 +1,1 @@
+Bullish is ratio of 7 day moving average to 65 day average it should be up 5 % or more. Bearish is inverse of that. It is an indicator of trend
