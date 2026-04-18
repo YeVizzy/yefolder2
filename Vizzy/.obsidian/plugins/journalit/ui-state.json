@@ -2,24 +2,38 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Untitled",
+      "path": "Untitled.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-18T09:47:10.427Z"
+    },
+    {
+      "type": "file",
       "title": "How to win in your 20s (this applies to anyone ANY age)",
       "path": "How to win in your 20s (this applies to anyone ANY age).md",
       "icon": "file-text",
-      "openedAt": "2026-04-18T09:41:56.616Z"
+      "openedAt": "2026-04-18T09:47:10.056Z"
+    },
+    {
+      "type": "file",
+      "title": "17 Key Takeaways From Spotting 32 Big Winners Before Their 2025 Runs",
+      "path": "17 Key Takeaways From Spotting 32 Big Winners Before Their 2025 Runs.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-18T09:47:09.471Z"
+    },
+    {
+      "type": "view",
+      "title": "Trade Log",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-04-18T09:47:01.492Z"
     },
     {
       "type": "file",
       "title": "How Stock Top",
       "path": "How Stock Top.md",
       "icon": "file-text",
-      "openedAt": "2026-04-13T11:47:37.164Z"
-    },
-    {
-      "type": "file",
-      "title": "Untitled",
-      "path": "Untitled.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-13T11:47:34.343Z"
+      "openedAt": "2026-04-18T09:42:18.006Z"
     },
     {
       "type": "file",
@@ -41,13 +55,6 @@
       "path": "IPO FRENZY.md",
       "icon": "file-text",
       "openedAt": "2026-04-10T17:10:51.231Z"
-    },
-    {
-      "type": "view",
-      "title": "Trade Log",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-04-10T04:41:10.295Z"
     },
     {
       "type": "file",
@@ -132,13 +139,6 @@
       "viewType": "journalit-account-page-view",
       "icon": "user",
       "openedAt": "2026-03-30T15:47:12.213Z"
-    },
-    {
-      "type": "file",
-      "title": "2026-Review",
-      "path": "!Journalit/2026/2026-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-29T19:43:58.114Z"
     }
   ],
   "gettingStartedDismissed": true,
