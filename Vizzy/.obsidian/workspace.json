@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SITUATIONAL AWARENESS.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SITUATIONAL AWARENESS"
+              "title": "Untitled"
             }
           },
           {
@@ -88,13 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bc3c33c6c8fc44e3",
@@ -204,11 +202,11 @@
   },
   "active": "faf3bcbf964cd90f",
   "lastOpenFiles": [
-    "Trade Journal.md",
     "Stan.md",
+    "SITUATIONAL AWARENESS.md",
+    "Trade Journal.md",
     "Untitled.md",
     "IPO FRENZY.md",
-    "SITUATIONAL AWARENESS.md",
     "How to win in your 20s (this applies to anyone ANY age).md",
     "17 Key Takeaways From Spotting 32 Big Winners Before Their 2025 Runs.md",
     "How Stock Top.md",

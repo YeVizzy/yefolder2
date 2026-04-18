@@ -2,6 +2,20 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Untitled",
+      "path": "Untitled.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-18T17:27:11.789Z"
+    },
+    {
+      "type": "file",
+      "title": "Stan",
+      "path": "Stan.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-18T17:27:10.571Z"
+    },
+    {
+      "type": "file",
       "title": "SITUATIONAL AWARENESS",
       "path": "SITUATIONAL AWARENESS.md",
       "icon": "file-text",
@@ -13,20 +27,6 @@
       "path": "Trade Journal.md",
       "icon": "file-text",
       "openedAt": "2026-04-18T15:23:09.199Z"
-    },
-    {
-      "type": "file",
-      "title": "Stan",
-      "path": "Stan.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-18T15:23:08.157Z"
-    },
-    {
-      "type": "file",
-      "title": "Untitled",
-      "path": "Untitled.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-18T15:23:04.967Z"
     },
     {
       "type": "file",
