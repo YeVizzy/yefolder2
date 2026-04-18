@@ -2,17 +2,31 @@
   "recentItems": [
     {
       "type": "file",
-      "title": "Untitled 1",
-      "path": "Untitled 1.md",
+      "title": "How to win in your 20s (this applies to anyone ANY age)",
+      "path": "How to win in your 20s (this applies to anyone ANY age).md",
       "icon": "file-text",
-      "openedAt": "2026-04-12T04:21:31.810Z"
+      "openedAt": "2026-04-18T09:41:56.616Z"
+    },
+    {
+      "type": "file",
+      "title": "How Stock Top",
+      "path": "How Stock Top.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-13T11:47:37.164Z"
     },
     {
       "type": "file",
       "title": "Untitled",
       "path": "Untitled.md",
       "icon": "file-text",
-      "openedAt": "2026-04-12T04:18:36.702Z"
+      "openedAt": "2026-04-13T11:47:34.343Z"
+    },
+    {
+      "type": "file",
+      "title": "Untitled 1",
+      "path": "Untitled 1.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-12T04:21:31.810Z"
     },
     {
       "type": "file",
@@ -125,20 +139,6 @@
       "path": "!Journalit/2026/2026-Review.md",
       "icon": "file-text",
       "openedAt": "2026-03-29T19:43:58.114Z"
-    },
-    {
-      "type": "file",
-      "title": "DRC-300326",
-      "path": "!Journalit/2026/Q1/03/W14/DRC-300326.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-29T18:42:33.359Z"
-    },
-    {
-      "type": "file",
-      "title": "03-Review",
-      "path": "!Journalit/2026/Q1/03/03-Review.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-29T18:25:00.199Z"
     }
   ],
   "gettingStartedDismissed": true,
