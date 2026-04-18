@@ -2,6 +2,13 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Untitled 1",
+      "path": "Untitled 1.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-18T10:58:53.630Z"
+    },
+    {
+      "type": "file",
       "title": "Untitled",
       "path": "Untitled.md",
       "icon": "file-text",
@@ -34,13 +41,6 @@
       "path": "How Stock Top.md",
       "icon": "file-text",
       "openedAt": "2026-04-18T09:42:18.006Z"
-    },
-    {
-      "type": "file",
-      "title": "Untitled 1",
-      "path": "Untitled 1.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-12T04:21:31.810Z"
     },
     {
       "type": "file",
