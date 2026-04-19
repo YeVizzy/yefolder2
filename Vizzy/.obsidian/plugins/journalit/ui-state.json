@@ -2,6 +2,34 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "SITUATIONAL AWARENESS",
+      "path": "SITUATIONAL AWARENESS.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-19T09:03:22.625Z"
+    },
+    {
+      "type": "file",
+      "title": "Pasted image 20260412100734",
+      "path": "Pasted image 20260412100734.png",
+      "icon": "file-text",
+      "openedAt": "2026-04-19T03:31:37.012Z"
+    },
+    {
+      "type": "file",
+      "title": "Pasted image 20260412000651",
+      "path": "Pasted image 20260412000651.png",
+      "icon": "file-text",
+      "openedAt": "2026-04-19T03:31:34.744Z"
+    },
+    {
+      "type": "file",
+      "title": "msedge_nWUWdjBguc",
+      "path": "msedge_nWUWdjBguc.png",
+      "icon": "file-text",
+      "openedAt": "2026-04-19T03:31:33.109Z"
+    },
+    {
+      "type": "file",
       "title": "Untitled",
       "path": "Untitled.md",
       "icon": "file-text",
@@ -13,13 +41,6 @@
       "path": "Stan.md",
       "icon": "file-text",
       "openedAt": "2026-04-18T17:27:10.571Z"
-    },
-    {
-      "type": "file",
-      "title": "SITUATIONAL AWARENESS",
-      "path": "SITUATIONAL AWARENESS.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-18T15:23:11.877Z"
     },
     {
       "type": "file",
@@ -118,27 +139,6 @@
       "path": "Stan/Untitled.md",
       "icon": "file-text",
       "openedAt": "2026-03-30T16:27:34.051Z"
-    },
-    {
-      "type": "file",
-      "title": "Untitled 1",
-      "path": "Stan/Untitled 1.md",
-      "icon": "file-text",
-      "openedAt": "2026-03-30T16:10:51.166Z"
-    },
-    {
-      "type": "view",
-      "title": "Journalit Onboarding",
-      "viewType": "journalit-onboarding-view",
-      "icon": "circle-dot-dashed",
-      "openedAt": "2026-03-30T15:47:21.542Z"
-    },
-    {
-      "type": "view",
-      "title": "Account Dashboard",
-      "viewType": "account-dashboard",
-      "icon": "users",
-      "openedAt": "2026-03-30T15:47:20.244Z"
     }
   ],
   "gettingStartedDismissed": true,
