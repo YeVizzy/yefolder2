@@ -2,6 +2,20 @@
   "recentItems": [
     {
       "type": "file",
+      "title": "Untitled 1",
+      "path": "Untitled 1.md",
+      "icon": "file-text",
+      "openedAt": "2026-04-19T09:27:10.487Z"
+    },
+    {
+      "type": "view",
+      "title": "Trade Log",
+      "viewType": "journalit-trade-log-view",
+      "icon": "folder-tree",
+      "openedAt": "2026-04-19T09:26:46.547Z"
+    },
+    {
+      "type": "file",
       "title": "SITUATIONAL AWARENESS",
       "path": "SITUATIONAL AWARENESS.md",
       "icon": "file-text",
@@ -58,13 +72,6 @@
     },
     {
       "type": "file",
-      "title": "Untitled 1",
-      "path": "Untitled 1.md",
-      "icon": "file-text",
-      "openedAt": "2026-04-18T10:58:53.630Z"
-    },
-    {
-      "type": "file",
       "title": "How to win in your 20s (this applies to anyone ANY age)",
       "path": "How to win in your 20s (this applies to anyone ANY age).md",
       "icon": "file-text",
@@ -76,13 +83,6 @@
       "path": "17 Key Takeaways From Spotting 32 Big Winners Before Their 2025 Runs.md",
       "icon": "file-text",
       "openedAt": "2026-04-18T09:47:09.471Z"
-    },
-    {
-      "type": "view",
-      "title": "Trade Log",
-      "viewType": "journalit-trade-log-view",
-      "icon": "folder-tree",
-      "openedAt": "2026-04-18T09:47:01.492Z"
     },
     {
       "type": "file",
